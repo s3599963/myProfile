@@ -19,38 +19,21 @@ body{
   background-attachment: fixed;
 
 }
+#page{
+  width: 70%;
+  align-content: center;
+  left: 50%;
+}
 header{
 	font-size: 2em;
   border-bottom:1px solid black;
   width: 6em;
 
 }
-header:hover{
-	border-bottom:2px solid black;
-	cursor: pointer;
 
 
-}
-h2{
-	font-size: 1em;
-  margin-bottom: 3em;
-  text-transform: left;
-  letter-spacing: .12em;
-}
-
-h1{
-	text-align: center;
-	font-size: 1em;
-	opacity: .5;
-
-}
-h3{
-  font-size: .75em;
-  opacity: .5;
-  margin-top: 3em;
-}
 p{
-	opacity: 0.5;
+	opacity: 1;
 }
 
 #test{
